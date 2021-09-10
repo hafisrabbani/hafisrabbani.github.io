@@ -157,7 +157,7 @@ nav a, nav ul li a{
 
 /* hero section */
 #hero{
-    background-image: url('file:///Y:/web_design/TravelApp2/assets/image/bg/bg1.jpg');
+    background-image: url('assets/image/bg/bg1.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -176,7 +176,7 @@ nav a, nav ul li a{
 }
 
 #sec-2{
-    background-image: url('file:///Y:/web_design/TravelApp2/assets/image/bg/bg-2.png');
+    background-image: url('assets/image/bg/bg-2.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -186,7 +186,7 @@ nav a, nav ul li a{
 }
 
 #sec-3{
-    background-image: url('file:///Y:/web_design/TravelApp2/assets/image/bg/bg1.jpg');
+    background-image: url('assets/image/bg/bg1.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -228,7 +228,7 @@ a{
 }
 
 #sec-5{
-    background-image: url('file:///Y:/web_design/TravelApp2/assets/image/bg/bg1.jpg');
+    background-image: url('assets/image/bg/bg1.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -238,7 +238,7 @@ a{
 }
 
 #sec-6{
-    background-image: url('file:///Y:/web_design/TravelApp2/assets/image/bg/bg-2.png');
+    background-image: url('assets/image/bg/bg-2.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
