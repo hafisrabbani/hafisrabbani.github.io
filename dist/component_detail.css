@@ -167,6 +167,10 @@ nav a, nav ul li a{
     padding: 0;
 }
 
+#sec-2{
+    margin-top: 3em;
+}
+
 .fluid{
     width: 100%;
     height: auto;
