@@ -157,7 +157,7 @@ nav a, nav ul li a{
     height: 3em;
 }
 
-body{
+#hero,#sec-2{
     background-image: url('../assets/image/bg/bg3.jpg');
     background-position: center;
     background-repeat: no-repeat;
